@@ -1,0 +1,10 @@
+-----------What is meant by Configuring git?-------------------
+    Git Configuring mean thorugh which account we are going to make changes. Mean when we are making change throug git on GitHub so 
+        1- Thorugh which email id we make changes
+        2-What the name we want to give to those changes 
+
+-------------Command---------------
+    git config --global user.name "Abdul Rehman"
+This command tells Git who you are so it can attach your name to every commit you make.
+  
+ 

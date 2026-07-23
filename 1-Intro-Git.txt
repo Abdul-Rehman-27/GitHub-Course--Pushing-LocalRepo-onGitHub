@@ -1,0 +1,20 @@
+---------------------What ia Git-------------------------
+Version Control System is a tools that helps to track changes in code. Git is a Version Control System. It is:
+-popular
+-free and open source
+-fast and scalable
+
+But it is primarily used for 
+-track the Code history
+    For example u have added the sign-up page, button in website and form related to help but the form take alot of time or we might facing issue to built it so we want that we will build this later in our project but we want that we can traceback to the code where we have't build form yet. So one way is that we delete manually each and every code files of help form so that we can go back to the previous code but its very hard for real time project. So we need an automated tool that tell us that how much code we have written before developing the code.
+
+-to collaborate
+    when multiple developers is working on same project so it must be important to track that which change is made by which developer on a particular feature so that the other developers dont override that changes.
+
+------------------What ia GitHub-------------------------
+Website that allows developers to store and manage their code using Git.
+
+Using Git
+-developers can upload their project on GitHub.
+-they can makes changes to code on github.
+-or they can updates changes on github which they have made in their sytem like computer
